@@ -1,0 +1,21 @@
+Pk innovatives
+Day 5 report
+Topics covered :
+
+A Comparison between Selenium and QTP
+
+
+Quick Test Professional(QTP) is a proprietary automated testing tool previously owned by the company Mercury Interactive before it was acquired by Hewlett-Packard in 2006
+
+Advantages and Benefits of Selenium over QTP
+• Selenium Open source, free to use, and free of charge.
+•QTP is Commercial.
+
+Advantages of QTP over Selenium
+•QTP Can test both web and desktop applications
+•Selenium can only test web applications
+
+QTP has more advanced capabilities, Selenium outweighs QTP in three main areas:
+•cost
+•flexibility
+•Parallel testing
